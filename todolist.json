@@ -1,0 +1,19 @@
+[ {
+  "id" : 1,
+  "description" : "cook",
+  "status" : "done",
+  "createdAt" : "2026-03-08",
+  "updatedAt" : "2026-03-08"
+}, {
+  "id" : 2,
+  "description" : "dry clothes",
+  "status" : "todo",
+  "createdAt" : "2026-03-08",
+  "updatedAt" : "2026-03-08"
+}, {
+  "id" : 3,
+  "description" : "cook rice",
+  "status" : "todo",
+  "createdAt" : "2026-03-08",
+  "updatedAt" : "2026-03-08"
+} ]
